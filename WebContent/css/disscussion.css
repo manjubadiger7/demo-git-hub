@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+.container {
+    padding: 20px;
+}
+
+.card-header {
+    font-style: italic;
+}
+
+.span {
+    font-size: 16px;
+    padding-right: 70px;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 19rem;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+.card {
+    height: 30rem;
+}
+
+.primary {
+    font-size: 22px;
+}
+
+.replayed {
+    font-size: 18px;
+    margin-left: 7rem;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.window {
+    width: 40rem;
+    height: 10rem;
+}
+
